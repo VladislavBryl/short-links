@@ -1,0 +1,25 @@
+{
+  "name": "short-links",
+  "version": "1.0.0",
+  "description": "Express, Mongo DB, Node JS, React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Mongo",
+    "Node",
+    "Express"
+  ],
+  "author": "Vladislav Bryl <bril.vladislav@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1"
+  },
+  "devDependencies": {
+    "concurrently": "^6.4.0",
+    "nodemon": "^2.0.15"
+  }
+}
