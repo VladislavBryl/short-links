@@ -4,7 +4,8 @@
   "description": "Express, Mongo DB, Node JS, React",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "app.js",
+    "server": "nodemon app.js"
   },
   "keywords": [
     "React",
@@ -15,6 +16,7 @@
   "author": "Vladislav Bryl <bril.vladislav@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.6",
     "express": "^4.17.1",
     "mongoose": "^6.1.1"
   },
