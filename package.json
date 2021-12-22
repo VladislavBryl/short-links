@@ -1,7 +1,7 @@
 {
   "name": "short-link",
   "version": "1.0.0",
-  "description": "Express, Mongo DB, Node JS, React",
+  "description": "Node js, Mongo DB, Express, React",
   "main": "app.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production node app.js",
